@@ -1,12 +1,4 @@
-package javaBasics;
 
-//Inside one Java File, we can have multiple JAVA Classes, but only one public class should be there
-
-//If we do not give any value for the string it will take null as the default value
-//If we do not give any value for the integer it will take 0 as the default value
-//If we do not give any value for the double it will take 0.0 as the default value
-//If we do not give any value for the boolean it will take false as the default value
-//If we do not give any value for the character it will take ' ' as the default value
 
 //Constructor is nothing but a method, but it gets executed implicitly or by default during object creation
 //Whenever we are creating an object, there will be constructor that will be executed automatically
